@@ -1,4 +1,2 @@
-I am Brady, I program in Python, Java, and JavaScript.
-
-My most notable project was a discord bot that connects to the Exaroton api to start minecraft servers.
-
+"All men can see the tactics whereby i conquer, But what none can see is the strategy out of which victory is evolved." 
+            -Sun Tzu, The Art of War.
